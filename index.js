@@ -1,5 +1,5 @@
 const farmAnimals = 'cow horse sheep pig chicken'
-let 
+let []=farmAnimals
 
 
 const colors = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']
