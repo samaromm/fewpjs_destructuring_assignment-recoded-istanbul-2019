@@ -1,5 +1,5 @@
 const farmAnimals = 'cow horse sheep pig chicken'
-let [moo,neigh,]=farmAnimals.split(' ')
+let [moo,neigh,baa,]=farmAnimals.split(' ')
 
 
 const colors = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']
